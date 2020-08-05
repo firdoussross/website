@@ -1,0 +1,29 @@
+{
+  "name": "ross-my-website",
+  "version": "1.0.0",
+  "description": "Ross.my Website Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firdoussross/website.git"
+  },
+  "keywords": [
+    "website",
+    "responsive",
+    "personal",
+    "bulma",
+    "css",
+    "html",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Firdouss Ross <hello@ross.my>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firdoussross/website/issues"
+  },
+  "homepage": "https://github.com/firdoussross/website#readme"
+}
